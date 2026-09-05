@@ -1,0 +1,12 @@
+{
+  "name": "gestion-inventario-libreria",
+  "version": "1.0.0",
+  "description": "Módulo de gestión de inventario para una librería",
+  "main": "src/inventario.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
